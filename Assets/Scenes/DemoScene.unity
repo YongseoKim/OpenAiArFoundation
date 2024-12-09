@@ -5815,6 +5815,18 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 3088788318285548193, guid: a4d5efcb6a66724428a5fc028514a748, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 17.245
+      objectReference: {fileID: 0}
+    - target: {fileID: 3088788318285548193, guid: a4d5efcb6a66724428a5fc028514a748, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.333
+      objectReference: {fileID: 0}
+    - target: {fileID: 3088788318285548193, guid: a4d5efcb6a66724428a5fc028514a748, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -12.485
+      objectReference: {fileID: 0}
     - target: {fileID: 3092417134368196107, guid: a4d5efcb6a66724428a5fc028514a748, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
@@ -24117,7 +24129,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_IsGlobal: 1
-  priority: 0
+  priority: 1
   blendDistance: 0
   weight: 1
   sharedProfile: {fileID: 11400000, guid: 928aa0dd444dc7d45b87932733904005, type: 2}
