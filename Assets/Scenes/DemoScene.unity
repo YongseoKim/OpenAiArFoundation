@@ -5539,6 +5539,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 2967477964660492640, guid: a4d5efcb6a66724428a5fc028514a748, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: eba261213b0389645a25067c534592ec, type: 2}
     - target: {fileID: 2969363192974097873, guid: a4d5efcb6a66724428a5fc028514a748, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
@@ -16954,6 +16958,8 @@ PrefabInstance:
     - {fileID: 5973403214296655990, guid: a4d5efcb6a66724428a5fc028514a748, type: 3}
     - {fileID: 8400836137686167313, guid: a4d5efcb6a66724428a5fc028514a748, type: 3}
     - {fileID: 6302898687141354770, guid: a4d5efcb6a66724428a5fc028514a748, type: 3}
+    - {fileID: 3697760334944093883, guid: a4d5efcb6a66724428a5fc028514a748, type: 3}
+    - {fileID: 7669187708785600886, guid: a4d5efcb6a66724428a5fc028514a748, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a4d5efcb6a66724428a5fc028514a748, type: 3}
@@ -17016,7 +17022,7 @@ Transform:
   m_GameObject: {fileID: 132838642}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 13.064, y: 1.46, z: -0.22}
+  m_LocalPosition: {x: 6.094, y: 1.902, z: -0.22}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -17168,7 +17174,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 1
+  m_Intensity: 1.67
   m_Range: 2.3
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
